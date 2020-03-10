@@ -13,4 +13,8 @@
         <item>Opção3</item>
         <item>Opção4</item>
     </array>
+    <string name="txtData1">Data1</string>
+    <string name="txtData2">Data2</string>
+    <string name="btnBtn1">Botão 1</string>
+    <string name="btnBtn2">Botão 2</string>
 </resources>

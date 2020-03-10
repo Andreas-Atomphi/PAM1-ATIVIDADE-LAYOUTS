@@ -15,15 +15,14 @@
         android:layout_marginTop="40dp"
         android:layout_marginEnd="253dp"
         android:layout_marginRight="253dp"
-        android:layout_marginBottom="9dp"
+        android:layout_marginBottom="10dp"
         android:text="@string/txtGasto"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/multiAutoCompleteTextView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.31" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <Spinner
         android:id="@+id/multiAutoCompleteTextView2"
@@ -161,7 +160,7 @@
         android:layout_width="88dp"
         android:layout_height="48dp"
         android:layout_marginTop="20dp"
-        android:layout_marginBottom="169dp"
+        android:layout_marginBottom="136dp"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/editText3"
